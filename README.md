@@ -14,7 +14,7 @@
  
 # 실행 화면
  ## 1. MainForm
-![WinFormTest](https://user-images.githubusercontent.com/71310919/93178741-9e732c00-f76f-11ea-8d08-320ed8fb6577.png)
+![WinFormTest](https://user-images.githubusercontent.com/71310919/93182814-1abc3e00-f775-11ea-9140-30ec7451e095.png)
 
 ## 2. DustForm
-![DustForm](https://user-images.githubusercontent.com/71310919/93178741-9e732c00-f76f-11ea-8d08-320ed8fb6577.png)
+![DustForm](https://user-images.githubusercontent.com/71310919/93182828-1f80f200-f775-11ea-8f9a-70f0bd162f16.png)
